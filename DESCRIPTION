@@ -1,0 +1,17 @@
+Package: glacieR
+Title: Glaciers Around the World
+Version: 0.0.0.9000
+Authors@R: as.person(c(
+    "Salma Huque <huques@reed.edu> [aut, cre]",
+    "Jackson Luckey <luckeyj@reed.edu> [aut]",
+    "Jonathan Li <limjo@reed.edu> [aut]"
+  ))
+Description: The goal of glacieR is to provide a cleaned and interesting dataset for public use. `Glacier` uses data from the World Glacier Inventory (WGS) , which has collaborated with various non-profit and government organizations to collect data on the world's glaciers since 1989. This package contains data from the most recent inventory in 2003, and was last updated in 2012 by the World Glacier Monitoring Service (WGMS), on over 130,000 unique glaciers.
+Depends:
+    R (>= 3.1)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Reed-Statistics/glacieR
+BugReports: https://github.com/Reed-Statistics/glacieR/issues
+RoxygenNote: 7.0.2
